@@ -1,4 +1,4 @@
-Welcome to my progress journal for
+Welcome to my progress journal for IE423
 
 ## Assingments
 1. assignment ...
