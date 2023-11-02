@@ -1,6 +1,6 @@
 Welcome to my progress journal for IE423
 
 ## Assingments
-1. assignment ...
-2. assignment ...
-3. ...
+### Assignment 1
+notebook links
+[ipynb format](https://bu-ie-423.github.io/fall-23-utkuboyar/ie423_hw1.ipynb)
