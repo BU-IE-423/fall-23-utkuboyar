@@ -10,6 +10,7 @@ notebook links
 
 ### Assignment 2
 [ipynb format](https://bu-ie-423.github.io/fall-23-utkuboyar/ie423-project_part2.ipynb)
+
 [html format](https://bu-ie-423.github.io/fall-23-utkuboyar/ie423-project_part2.html)
 
 
